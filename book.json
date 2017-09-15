@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "theme-faq",
+        "-fontsettings",
+        "-sharing"
+    ],
+    "title": "CoderDojo Waterford FAQ Section"
+}
